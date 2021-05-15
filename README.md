@@ -3,7 +3,7 @@
 有一些奇奇怪怪的功能  
 如果有什么BUG或者什么建议可以提issues  
 目前已经实现插件化，部分插件可拆下搭载在其他机器人上（同为botoy）使用  
-**一般每周六定期维护**  
+~~**一般每周六定期维护**~~等我高考考好，或者大家提交pr也可以    
 使用见  →[wiki](https://github.com/kitUIN/ioobot/wiki) ←
 ## 插件(点击跳转到说明)  
 - [识图搜源](https://github.com/kitUIN/ioobot/wiki/command#识图姬) （目前支持SauceNAO和TraceMoe）
